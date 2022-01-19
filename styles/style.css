@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.row{
+    display: flex;
+    padding: 0 -15px;
+    flex-wrap: wrap;
+    position: relative;
+
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.header__container {
+    padding-top: 50px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__logo {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FF0043;
+
+}
+
+.btn {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+    background: #FF0043;
+    box-shadow: 0 5px 50px rgba(255, 0, 67, 0.1);
+    border-radius: 23px;
+}
+
+.hero {
+    background: linear-gradient(0deg, #F6F7F9 0%, #FFFFFF 62.81%);}
+
+.hero-container {
+    padding-bottom: 55px;
+}
+
+.hero__title {
+    padding-top: 154px;
+    font-size: 60px;
+    line-height: 85px;
+    color: #00194A;
+    margin-bottom: 20px;
+
+}
+
+.hero__subtitle {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    color: #00194A;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+    margin-bottom: 50px;
+
+}
+
+.hero__btn{
+    font-family: 'ABeeZee', sans-serif;
+    font-style: italic;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+    background: #FF0043;
+    box-shadow: 0 5px 50px rgba(255, 0, 67, 0.1);
+    border-radius: 30px;
+    padding: 20px 43px 20px 50px;
+    margin-bottom: 158px;
+}
+
+.hero__svg{
+    position: absolute;
+    width: 594px;
+    height: 594px;
+    left: 606px;
+    top: 100px;
+}
+
+.hero-curly{
+    position: absolute;
+    left: 994px;
+    top: 118px;
+}
+.hero-black{
+    position: absolute;
+    left: 732px;
+    top: 76px;
+}
+.hero-readHead{
+    position: absolute;
+    left: 898px;
+    top: 201px;
+}
+.hero-smile{
+    position: absolute;
+    left: 560px;
+    top: 319px;
+}
+.hero-man{
+    position: absolute;
+    left: 666px;
+    top: 569px;
+}
+.hero-blackHead{
+    position: absolute;
+    left: 936px;
+    top: 635px;
+}
+.hero-leftPhone{
+    position: absolute;
+    width: 330px;
+    height: 339px;
+    left: 597px;
+    top: 200px;
+}
+
+.hero-rightPhone{
+    position: absolute;
+    width: 330px;
+    height: 350px;
+    left: 913px;
+    top: 270px;
+}
+
+.download {
+    }
+.download__container{
+    padding: 80px 0 80px 0;
+}
+
+
+
