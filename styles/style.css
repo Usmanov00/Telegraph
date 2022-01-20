@@ -219,7 +219,15 @@ body {
     padding-top: 85px;
 }
 
-.
+.row__box{
+    background: #FFFFFF;
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.03);
+    border-radius: 10px;
+    display: flex;
+}
+.row__box__icon{
+    padding: 10px 15px 10px;
+}
 
 
 
