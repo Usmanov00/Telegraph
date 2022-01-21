@@ -351,12 +351,16 @@ body {
 }
 
 .share__subtitle {
+    width: 466px;
+    height: 168px;
+    font-style: normal;
     font-weight: 300;
     font-size: 18px;
     line-height: 28px;
     color: #00194A;
     mix-blend-mode: normal;
     opacity: 0.8;
+
 }
 
 
@@ -411,13 +415,15 @@ body {
 
 .keep__dots {
     position: relative;
-    top: -1px;
-    left: 100px;
+    top: 0;
+    left:196px;
     z-index: -1;
 }
 .keep-background{
-    background: url("/images/keep-girl.png") no-repeat;
     border-radius: 10px;
-    margin-top: 64px;
+    position: absolute;
+    top: 85px;
+    left: -16px;
+    z-index: -1;
 }
 
