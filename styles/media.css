@@ -1,15 +1,62 @@
-@media (max-width: 1200px){
-
+@media (max-width: 1200px) {
+    .container {
+        max-width: 960px;
+    }
 }
 
 @media (max-width: 992px) {
-    
+    .container {
+        max-width: 740px;
+        overflow-x: hidden;
+    }
+
+    .hero__svg {
+        left: 339px;
+        width: 383px;
+    }
+
+    .hero-rightPhone {
+        left: 646px;
+
+    }
+
+    .hero-leftPhone {
+        left: 330px;
+    }
+
+    .hero-curly {
+        left: 729px;
+    }
+
+    .hero-black {
+        left: 465px;
+    }
+
+    .hero-readHead {
+        left: 631px;
+    }
+
+    .hero-smile {
+        left: 293px;
+    }
+
+    .hero-man {
+        left: 399px;
+    }
+
+    .hero-blackHead {
+        left: 669px;
+    }
+
+
 }
 
 @media (max-width: 768px) {
-    
+    .container {
+        max-width: 540px;
+    }
 }
 
 @media (max-width: 576px) {
-    
+
 }

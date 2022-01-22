@@ -37,9 +37,8 @@ body {
     justify-content: space-between;
     position: fixed;
     z-index: 2;
-
-
 }
+
 
 .header__logo {
     text-decoration: none;
