@@ -39,6 +39,13 @@ body {
     z-index: 2;
 }
 
+.header__scroll{
+    background: #b2abab;
+    border-radius: 6px;
+    padding: 10px 0;
+    position: fixed;
+    top: 0;
+}
 
 .header__logo {
     text-decoration: none;
