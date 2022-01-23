@@ -7,7 +7,9 @@
 @media (max-width: 992px) {
     .container {
         max-width: 740px;
-        overflow-x: hidden;
+        }
+    title{
+        width: 50%;
     }
 
     .hero__svg {
@@ -59,4 +61,7 @@
 
 @media (max-width: 576px) {
 
+    .share__box{
+        margin: 0;
+    }
 }
