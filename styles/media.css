@@ -65,4 +65,21 @@
     .share__box{
         margin: 0;
     }
+
+    .hero__title {
+        padding-top: 70px;
+        font-size: 31px;
+        line-height: 40px;
+
+    }
+
+    .hero__subtitle {
+        font-weight: 300;
+        font-size: 13px;
+        line-height: 21px;
+        color: #00194A;
+        mix-blend-mode: normal;
+        opacity: 0.8;
+        margin-bottom: 24px;
+    }
 }
