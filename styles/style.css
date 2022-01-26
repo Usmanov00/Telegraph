@@ -679,3 +679,22 @@ svg{
 .social__item:hover:before {
     transform: scale(1);
 }
+
+
+.modal-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #002aa4;
+    height: 100vh;
+    width: 100%;
+    z-index: 3;
+
+}
+
+.modal__comment{
+    
+}
