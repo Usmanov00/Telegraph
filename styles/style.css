@@ -711,13 +711,19 @@ svg:hover {
 
 .call-btn{
     padding: 10px;
-    background-color: red;
+    background-color: #FF0043;
     border-radius: 30px;
     border: none;
     position: fixed;
     bottom: 70px;
     right: 10px;
     color: #fff;
+    transition: 0.6gits;
 
+}
 
+.call-btn:hover{
+    background-color: #fff;
+    color: #FF0043;
+    padding: 15px;
 }
