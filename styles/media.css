@@ -82,4 +82,9 @@
         opacity: 0.8;
         margin-bottom: 24px;
     }
+    .header__scroll{
+    padding: 8px 76px;
+    align-items: center;
+    text-align: center;
+}
 }
