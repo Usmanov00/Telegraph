@@ -354,7 +354,7 @@ body {
 
 .number {
     width: 25px;
-    height: 25px;
+    height: 24px;
     display: flex;
     justify-content: center;
     align-items: end;
