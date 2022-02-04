@@ -102,4 +102,21 @@
         color: #FFFFFF;
         margin-bottom: 26px;
     }
+
+    .app__btn {
+        font-size: 13px;
+        line-height: 14px;
+        padding: 10px 20px 10px 20px;
+
+    }
+
+    .keep__subtitle {
+        width: 388px;
+        height: 0;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 20px;
+        margin-top: 0;
+        opacity: 0.8;
+    }
 }
