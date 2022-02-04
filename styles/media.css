@@ -118,6 +118,7 @@
         margin-bottom: 20px;
     }
 
+
     .keep__subtitle {
         width: 388px;
         height: 0;
@@ -126,5 +127,14 @@
         line-height: 20px;
         margin-top: 0;
         opacity: 0.8;
+    }
+
+    .row__title {
+        padding-top: 565px;
+        font-size: 35px;
+        line-height: 50px;
+        color: #00194A;
+        align-items: center;
+        margin-bottom: 30px;
     }
 }
