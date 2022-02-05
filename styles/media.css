@@ -8,6 +8,13 @@
     .container {
         max-width: 740px;
         }
+
+    @media (max-width: 992px){
+        .hero__svg {
+            left: 0;
+            top: 117px;
+            width: 383px;
+        }
     title{
         width: 50%;
 
@@ -62,7 +69,7 @@
 
 @media (max-width: 576px) {
 
-    .share__box{
+    .share__box {
         margin: 0;
     }
 
@@ -82,11 +89,13 @@
         opacity: 0.8;
         margin-bottom: 24px;
     }
-    .header__scroll{
-    padding: 8px 76px;
-    align-items: center;
-    text-align: center;
-}
+
+    .header__scroll {
+        padding: 8px 76px;
+        align-items: center;
+        text-align: center;
+    }
+
     .app__title {
         font-size: 24px;
         line-height: 20px;
@@ -108,6 +117,13 @@
         line-height: 14px;
         padding: 10px 20px 10px 20px;
 
+    }
+
+    .keep__range {
+        position: absolute;
+        left: 0;
+        top: 245px;
+        width: 300px;
     }
 
     .keep__title {
@@ -137,4 +153,8 @@
         align-items: center;
         margin-bottom: 30px;
     }
+
+}
+
+
 }
