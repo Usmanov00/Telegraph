@@ -154,6 +154,16 @@
         margin-bottom: 30px;
     }
 
+    .row__box.first {
+        left: 0;
+    }
+    .row__box.second {
+        left: 0;
+    }
+    .row__box.third {
+        left: 0;
+    }
+
 }
 
 
