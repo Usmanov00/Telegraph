@@ -16,17 +16,7 @@
             width: 338px;
         }
 
-        .hero__btn {
-            font-family: 'ABeeZee', sans-serif;
-            font-style: italic;
-            font-size: 13px;
-            line-height: 11px;
-            color: #FFFFFF;
-            box-shadow: 0 5px 50px rgb(255 0 67 / 10%);
-            border-radius: 30px;
-            padding: 10px 10px 10px 10px;
-            margin-bottom: 158px;
-        }
+
     title{
         width: 50%;
 
@@ -98,13 +88,9 @@
     }
 
     .hero__subtitle {
-        font-weight: 300;
         font-size: 13px;
-        line-height: 21px;
-        color: #00194A;
-        mix-blend-mode: normal;
-        opacity: 0.8;
-        margin-bottom: 24px;
+        line-height: 17px;
+        margin-bottom: 10px;
     }
 
     .header__scroll {
@@ -113,6 +99,31 @@
         text-align: center;
     }
 
+    .hero__btn {
+        font-family: 'ABeeZee', sans-serif;
+        font-style: italic;
+        font-size: 13px;
+        line-height: 11px;
+        color: #FFFFFF;
+        box-shadow: 0 5px 50px rgb(255 0 67 / 10%);
+        border-radius: 30px;
+        padding: 10px 10px 10px 10px;
+        margin-bottom: 158px;
+    }
+
+    .hero-leftPhone {
+        width: 230px;
+        height: 239px;
+        left: 0;
+        top: 257px;
+    }
+
+    .hero-rightPhone {
+        width: 230px;
+        height: 250px;
+        left: 185px;
+        top: 255px;
+    }
     .app__title {
         font-size: 24px;
         line-height: 20px;
