@@ -700,7 +700,7 @@ svg:hover {
 .close-modal {
     background-color: #ff0000;
     color: #fff;
-    border-radius: 50%;
+    border-radius: 90%;
     font-size: 19px;
     padding: 10px;
     border: none;
