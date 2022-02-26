@@ -725,5 +725,6 @@ svg:hover {
 .call-btn:hover{
     background-color: #fff;
     color: #00194A;
-    padding: 12px;
+    padding: 5px;
+    /* padding 14 */
 }
