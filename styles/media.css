@@ -227,10 +227,9 @@
         left: 0;
     }
     .row__box.third {
-        left: 1px;
+        left: 2px;
         /* left: 0*/
     }
-
 }
 
 
